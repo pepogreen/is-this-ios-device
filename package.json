@@ -1,0 +1,27 @@
+{
+  "name": "is-this-ios-device",
+  "version": "1.0.0",
+  "description": "Check whether this is an iOS device",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepogreen/is-this-ios-device.git"
+  },
+  "keywords": [
+    "iOS",
+    "device"
+  ],
+  "author": "Ansad <ansadm@gmail.com> [http://pepogreen.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepogreen/is-this-ios-device/issues"
+  },
+  "homepage": "https://github.com/pepogreen/is-this-ios-device#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
